@@ -1,0 +1,16 @@
+---
+ideas:
+- title: 'this is the '
+  description: lowest ranked
+- title: 'this is the '
+  description: second highest
+  rank: 2
+- title: 'this is the '
+  description: second lowest
+  rank: 1
+- title: this
+  description: is the highest ever!
+  rank: 2
+- rank: 12
+  title: 'this is '
+  description: middle post
